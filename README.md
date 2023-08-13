@@ -3,12 +3,12 @@
 # Hello! Better_OIer Here.
 
 一位奋战在高考赛道上的有志青年  
-一位吃了太多蔬菜的OIer
+一位吃了太多蔬菜的在OIer
 
 科技树形状：
-C++ & Python & Web Fullstack
+C++ & Python & Qt & Web Fullstack
 
-起风了，唯有努力生存！
+浙江大学等我！
 
 # Tech Stack
 
