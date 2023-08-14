@@ -6,7 +6,7 @@
 一位吃了太多蔬菜的在役OIer
 
 科技树形状：  
-C++ & Python & Qt & Web Fullstack
+![C++](https://img.shields.io/badge/C++-blue) & ![Python](https://img.shields.io/badge/Python-yellow) & ![Qt](https://img.shields.io/badge/Qt) & ![Web](https://img.shields.io/badge/Web%20FullStack-purple)
 
 浙江大学等我！
 
