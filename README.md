@@ -8,8 +8,9 @@
 科技树形状：  
 ![C++](https://img.shields.io/badge/C++-blue) & ![Python](https://img.shields.io/badge/Python-yellow) & ![Qt](https://img.shields.io/badge/Qt-green) & ![Web](https://img.shields.io/badge/Web%20FullStack-purple)
 
-浙江大学等我！
+——椿去湫来，你我终会相见——  
+浙大等我！
 
-# Tech Stack
+# $\textbf{Tech Stack}$
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,css,qt,django,docker,git,github,html,latex,linux,md,nginx,nodejs,stackoverflow,ps,ae,pr,sketchup,vim,vscode&perline=7)](https://skillicons.dev)
