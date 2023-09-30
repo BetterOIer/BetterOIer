@@ -11,6 +11,6 @@
 ——椿去湫来，你我终会相见——  
 浙大等我！
 
-# $\textbf{Tech Stack}$
+$$\LARGE{\textbf{Tech Stack}}$$
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,css,qt,django,docker,git,github,html,latex,linux,md,nginx,nodejs,stackoverflow,ps,ae,pr,sketchup,vim,vscode&perline=7)](https://skillicons.dev)
