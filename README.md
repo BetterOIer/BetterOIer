@@ -7,7 +7,8 @@
 ![C++](https://img.shields.io/badge/C++-blue) & ![Python](https://img.shields.io/badge/Python-yellow) & ![Qt](https://img.shields.io/badge/Qt-green) & ![Web](https://img.shields.io/badge/Web%20FullStack-purple)
 
 ——椿去湫来，你我终会相见——  
-浙大等我！
+西湖大学等我！
+Fight For Westlake University!
 
 $$\LARGE{\textbf{Tech Stack}}$$
 
