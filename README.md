@@ -2,7 +2,7 @@
   <h1>👋 Hello, Better_OIer Here.</h1>
   <p>一位有志保研去中科院的有志青年<br>An aspiring young student who fought his way to Chinese Academy of Science<br>
   一位吃了太多蔬菜的退役OIer<br>A retired OIer who ate too many vegetables
-  <br>一位打算进力学与航空航天工程系的大一NKDer<br>A Sustech freshman planning to apply to MAE<br>一头忙忙碌碌的牛马努力抽出时间打全国大学生机器人大赛<br>A busyyyyyyyyyy bee manages to squeeze in time to participate in Robocon</p>
+  <br>一位打算进力学与航空航天工程系的大一NKDer<br>A Sustech freshman planning to apply to MAE<br>一头忙忙碌碌的牛马努力抽出时间打全国大学生机器人大赛（已经失败了。。。）<br>A busyyyyyyyyyy bee manages to squeeze in time to participate in Robocon (Failed now...)</p>
 
 科技树形状：  
 ![C++](https://img.shields.io/badge/C++-blue) & ![Python](https://img.shields.io/badge/Python-yellow) & ![Java](https://img.shields.io/badge/Java-green) & ![Web](https://img.shields.io/badge/Web%20FullStack-purple)
