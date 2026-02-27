@@ -1,11 +1,20 @@
+<table>
+  <tr>
+    <td width="30%">
+      <img src="avator.jpg" width="100%" />
+    </td>
+    <td>
+      <h1>👋 <em>Hello, Yuxuan Zheng Here.</em></h1><p>一位有志保研去浙大控院的有志青年<br>An aspiring young student who fought his way to ZJU<br>一位吃了太多蔬菜的退役OIer<br>A retired OIer who ate too many vegetables<br>一位打算进自动化专业的大一NKDer<br>A Sustech freshman planning to apply to Automation Engineering<br>一头忙忙碌碌的牛马努力抽出时间打全国大学生机器人大赛（<del>已经失败了。。。</del>重启中！）<br>A busyyyyyyyyyy bee manages to squeeze in time to participate in Robocon (<del>Failed now...</del>Restarting!!!)</p>
+    </td>
+  </tr>
+</table>
+
 <div align=center>
-  <h1>👋 <em>Hello, Yuxuan Zheng Here.</em></h1>
-  <p>一位有志保研去浙大控院的有志青年<br>An aspiring young student who fought his way to ZJU<br>
-  一位吃了太多蔬菜的退役OIer<br>A retired OIer who ate too many vegetables
-  <br>一位打算进自动化专业的大一NKDer<br>A Sustech freshman planning to apply to Automation Engineering<br>一头忙忙碌碌的牛马努力抽出时间打全国大学生机器人大赛（<del>已经失败了。。。</del>重启中！）<br>A busyyyyyyyyyy bee manages to squeeze in time to participate in Robocon (<del>Failed now...</del>Restarting!!!)</p>
 
 科技树形状：  
 ![C++](https://img.shields.io/badge/C++-blue) & ![Python](https://img.shields.io/badge/Python-yellow) & ![Java](https://img.shields.io/badge/Java-green) & ![Web](https://img.shields.io/badge/Web%20FullStack-purple)
+
+---
 
 相信对的人，会站在我的前途里  
 ——椿去湫来，你我终会相见——  
@@ -20,6 +29,8 @@ $$\LARGE{\textbf{Tech Stack}}$$
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,css,java,django,docker,git,github,html,latex,linux,md,nginx,nodejs,stackoverflow,ps,ae,pr,sketchup,vim,vscode&perline=7)](https://skillicons.dev)
 -->
 </div>
+
+---
 
 ### ⚙️ Statistics
 
