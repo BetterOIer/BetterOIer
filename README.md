@@ -11,23 +11,21 @@
 
 <table style="border: none">
   <tr style="border: none">
-    <td width="80%" style="border: none">
+    <td width="50%" style="border: none">
       <h3>💯我擅长的 | Tech Stack</h3>
       <img src="https://img.shields.io/badge/C++-blue" alt="C++"> &
       <img src="https://img.shields.io/badge/Python-yellow" alt="Python"> &
       <img src="https://img.shields.io/badge/Java-green" alt="Java">
     </td>
-    <td width="20%" style="border: none">
-      <img src="thumbsup.svg" width="100%">
+    <td width="50%" style="border: none">
+      <h3>✍ 正在学习 | Studying On</h3>
+      <img src="https://img.shields.io/badge/Qt-green" alt="Qt"> &
+      <img src="https://img.shields.io/badge/Web%20FullStack-purple" alt="Web FullStack"> &
+      <img src="https://img.shields.io/badge/Zephyr-8A2BE2" alt="Zephyr">
     </td>
   </tr>
 </table>
 
-
-
-### ✍ 正在学习 | Studying On
-
-![Qt](https://img.shields.io/badge/Qt-green) & ![Web](https://img.shields.io/badge/Web%20FullStack-purple) & ![Zephyr](https://img.shields.io/badge/Zephyr-8A2BE2)
 
 
 
