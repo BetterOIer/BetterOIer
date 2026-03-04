@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-<table style="border: none">
+<table width="100%" style="border: none">
   <tr style="border: none">
     <td width="50%" style="border: none">
       <h3>💯我擅长的 | Tech Stack</h3>
