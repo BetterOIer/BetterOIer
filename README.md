@@ -23,23 +23,24 @@
 
 ### 💖小有作为 | Outstanding Project
 
-[中国象棋 | ChineseChess](https://github.com/BetterOIer/ChineseChess)
+[中国象棋 | ChineseChess](https://github.com/BetterOIer/ChineseChess): Sustech小组作业，一个比较完整的中国象棋程序
 
-[谷歌小恐龙 | GoogleDino](https://github.com/BetterOIer/GoogleDino)
+[谷歌小恐龙 | GoogleDino](https://github.com/BetterOIer/GoogleDino): 使用`pygame`手搓Google小恐龙，在那个还没有chatGPT的初中时代，采用古法Coding而成
 
-[书图同归 | Bookture](https://github.com/BetterOIer/Bookture)
+[书图同归 | Bookture](https://github.com/BetterOIer/Bookture): 一个把pdf转换为图片拼图的项目
 
-[远程唤醒 | Wake On Lan](https://github.com/BetterOIer/gCPP_Code/tree/master/Project/WOL_GUI)
+[远程唤醒 | Wake On Lan](https://github.com/BetterOIer/gCPP_Code/tree/master/Project/WOL_GUI): 采用WOL协议写的GUI客户端，拓展支持广域网内唤醒服务器
 
 ---
 
 ### 💬欢迎交流 | I'm Here To Chat
 
+![WeChat](https://img.shields.io/badge/微信|WeChat-zyx2155173747-green) & ![QQ](https://img.shields.io/badge/QQ-2155173747-white) & ![Email](https://img.shields.io/badge/邮箱|Email-2155173747@qq.com-blue) & ![Tel](https://img.shields.io/badge/电话|Tel-18069311392-brown)
   
 相信对的人，会站在我的前途里  
-——椿去湫来，你我终会相见——  
+椿去湫来，你我终会相见！  
 Sincerely looking for a girlfriend   
-to share with me one love one lifetime
+to share with me one love one lifetime!
 
 
 <!--
@@ -51,7 +52,7 @@ $$\LARGE{\textbf{Tech Stack}}$$
 
 
 
-### ⚙️ 贡献数据/Statistics
+### ⚙️ 贡献数据 | Statistics
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BetterOIer&theme=tokyo-night&radius=8&height=300" width="100%">
