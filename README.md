@@ -9,21 +9,31 @@
   </tr>
 </table>
 
-### 💯我擅长的 | Tech Stack
+<table style="border: none">
+  <tr style="border: none">
+    <td width="80%" style="border: none">
+      <h3>💯我擅长的 | Tech Stack</h3>
+      <img src="https://img.shields.io/badge/C++-blue" alt="C++"> &
+      <img src="https://img.shields.io/badge/Python-yellow" alt="Python"> &
+      <img src="https://img.shields.io/badge/Java-green" alt="Java">
+    </td>
+    <td width="20%" style="border: none">
+      <img src="thumbsup.svg" width="100%">
+    </td>
+  </tr>
+</table>
 
-![C++](https://img.shields.io/badge/C++-blue) & ![Python](https://img.shields.io/badge/Python-yellow) & ![Java](https://img.shields.io/badge/Java-green)
 
----
 
 ### ✍ 正在学习 | Studying On
 
 ![Qt](https://img.shields.io/badge/Qt-green) & ![Web](https://img.shields.io/badge/Web%20FullStack-purple) & ![Zephyr](https://img.shields.io/badge/Zephyr-8A2BE2)
 
----
+
 
 ### 💖小有作为 | Outstanding Project
 
-[中国象棋 | ChineseChess](https://github.com/BetterOIer/ChineseChess): Sustech小组作业，一个比较完整的中国象棋程序
+[中国象棋 | ChineseChess](https://github.com/BetterOIer/ChineseChess): Sustech小组作业，感谢搭档[@sharknnss](https://github.com/sharknnss)，一个比较完整的中国象棋项目
 
 [谷歌小恐龙 | GoogleDino](https://github.com/BetterOIer/GoogleDino): 使用`pygame`手搓Google小恐龙，在那个还没有chatGPT的初中时代，采用古法Coding而成
 
@@ -31,7 +41,7 @@
 
 [远程唤醒 | Wake On Lan](https://github.com/BetterOIer/gCPP_Code/tree/master/Project/WOL_GUI): 采用WOL协议写的GUI客户端，拓展支持广域网内唤醒服务器
 
----
+
 
 ### 💬欢迎交流 | I'm Here To Chat
 
